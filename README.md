@@ -4,5 +4,3 @@
 👩🏻‍🎓 Biomedicine graduate from the University of Huddersfield, United Kingdom<br/>
 💭 Currently learning Python for scientific computing and data analysis<br/>
 📬 You can reach me at dora.marcec@postgrad.manchester.ac.uk
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doramarcec&layout=compact&theme=algolia)
