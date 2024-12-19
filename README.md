@@ -5,3 +5,4 @@
 💭 Currently learning Python for scientific computing and data analysis<br/>
 📬 You can reach me at dora.marcec@postgrad.manchester.ac.uk
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=doramarcec&layout=compact&theme=algolia)
