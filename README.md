@@ -5,8 +5,3 @@
 💭 Currently learning Python for scientific computing and data analysis<br/>
 📬 You can reach me at dora.marcec@postgrad.manchester.ac.uk
 
-### 🧬 Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=doramarcec&repo=quantitative-proteomics&theme=react&hide_rank=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=doramarcec&repo=transcriptomic-analysis&theme=react)
-
-
