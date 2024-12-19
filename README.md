@@ -1,5 +1,4 @@
-<h1 align="center">Dora Marčec</h1>
-<h3 align="center">Bioinformatics and Systems Biology | Biomedicine </h3>
+<h1 align="center">👋 Hi, I'm Dora!</h1>
 
 👩🏻‍💻 Bioinformatics and Systems Biology student at the University of Manchester, United Kingdom<br/>
 👩🏻‍🎓 Biomedicine graduate from the University of Huddersfield, United Kingdom<br/>
