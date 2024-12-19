@@ -7,9 +7,7 @@
 📬 You can reach me at dora.marcec@postgrad.manchester.ac.uk
 
 ### 🧬 Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=doramarcec&repo=quantitative-proteomics&theme=algolia&hide_rank=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=doramarcec&repo=transcriptomic-analysis&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/pin/?username=doramarcec&repo=quantitative-proteomics&theme=react&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=doramarcec&repo=transcriptomic-analysis&theme=react)
 
-### ⚙️ GitHub Analytics
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=doramarcec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doramarcec&layout=compact&theme=algolia)
+
